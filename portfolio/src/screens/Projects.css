@@ -1,0 +1,21 @@
+img {
+
+width: 250px;
+height: 150px;
+
+}
+
+.projects{
+
+margin: 10px;
+background-color: #E2E8CE;
+}
+.project1,
+.project2,
+.project3,
+.project4{
+
+
+margin-top: 20px;
+
+}
