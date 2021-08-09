@@ -6,7 +6,7 @@ import './Navbar.css'
 const Nav = ({ user }) => {
   return (
     <div className='meImg'>
-      <img className="bg" src="https://thumbs-prod.si-cdn.com/zwOzXtZnnwCaVDxKFIg6N-QNAiU=/fit-in/1600x0/https://public-media.si-cdn.com/filer/25/f0/25f08cff-0355-4001-86ad-28950a866af4/grandteton.jpg" alt=""  />
+      <img className="bg" src="info.jpg" alt=""  />
       <img className="img" src="siya.jpg" alt="" />
       <div>
     <nav>

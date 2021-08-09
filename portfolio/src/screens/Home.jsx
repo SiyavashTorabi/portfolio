@@ -1,9 +1,9 @@
 import React from 'react'
-
+import "./Home.css"
 export default function Home() {
   return (
     <div>
-      <h2>Resilient and tireless Junior Developer who enjoys thinking
+      <h2 className="home" >Resilient and tireless Junior Developer who enjoys thinking
         outside of the box to find creative and life-changing solutions.
         An effective leader, I rely on my exceptional multitasking abilities,
         communication skills, and resourcefulness to get the job done. When I’m
