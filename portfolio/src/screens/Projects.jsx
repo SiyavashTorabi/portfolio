@@ -1,13 +1,13 @@
 import React from 'react'
 import './Projects.css'
-import { Link } from 'react-router-dom'
+
 export default function Projects() {
   return (
     <div className="projects">
       <div className="project1">
         <h2 className="texts">SCP-APP</h2>
-        <a className="links" href="https://lucid-wiles-f50192.netlify.app/" target="_blank">deployed site</a>
-        <a className="links" href="https://github.com/SiyavashTorabi/scp-app" target="_blank">App On Github</a>
+        <a className="links" href="https://lucid-wiles-f50192.netlify.app/" rel="noreferrer" target="_blank">deployed site</a>
+        <a className="links" href="https://github.com/SiyavashTorabi/scp-app" rel="noreferrer" target="_blank">App On Github</a>
 
         <h3 className="texts">FE Only</h3>
         <ul className="texts"> 
@@ -18,13 +18,13 @@ export default function Projects() {
         <li>WireFrame</li>
         <li>Air Table</li>
         </ul>
-        <img className="proImg" src='SCP.jpg' />
+        <img className="proImg" src='SCP.jpg' alt='img'/>
     </div>
       <div className="project2">
         <h2 className="texts">Aqua Hunters</h2>
         
-        <a className="links" href="https://61012b87a5da71b8ffa6a634--aqua-hunters.netlify.app/" target="_blank">deployed site</a>
-        <a className="links" href="https://github.com/SiyavashTorabi/Aqua-Hunters" target="_blank">App On Github</a>
+        <a className="links" href="https://61012b87a5da71b8ffa6a634--aqua-hunters.netlify.app/" rel="noreferrer" target="_blank">deployed site</a>
+        <a className="links" href="https://github.com/SiyavashTorabi/Aqua-Hunters" rel="noreferrer" target="_blank">App On Github</a>
         <h3 className="texts">Full Stack</h3>
         <ul className="texts"> 
         Languages/Apps used creating this Project:
@@ -36,12 +36,12 @@ export default function Projects() {
         <li>Netlify</li>
         <li>Figma</li>
         </ul>
-        <img className="proImg" src='Fish.jpg' />
+        <img className="proImg" src='Fish.jpg' alt='img'/>
     </div>
       <div className="project3">
         <h2 className="texts">PCParts</h2>
-        <a className="links" href="https://siyas-pcparts.netlify.app/" target="_blank">deployed site</a>
-        <a className="links" href="https://github.com/SiyavashTorabi/PCParts" target="_blank">App On Github</a>
+        <a className="links" href="https://siyas-pcparts.netlify.app/" rel="noreferrer" target="_blank">deployed site</a>
+        <a className="links" href="https://github.com/SiyavashTorabi/PCParts" rel="noreferrer" target="_blank">App On Github</a>
         <h3 className="texts">Full Stack</h3>
         <ul className="texts"> 
         Languages/Apps used creating this Project:
@@ -53,12 +53,12 @@ export default function Projects() {
         <li>Netlify</li>
         <li>Figma</li>
         </ul>
-        <img className="proImg" src='pc.jpg' />
+        <img className="proImg" src='pc.jpg' alt='img'/>
     </div>
       <div className="project4">
         <h2 className="texts">lolinfo</h2>
-        <a className="links" href="https://siyavashtorabi.github.io/lolinfo/" target="_blank">deployed site</a>
-        <a className="links" href="https://github.com/SiyavashTorabi/lolinfo" target="_blank">App On Github</a>
+        <a className="links" href="https://siyavashtorabi.github.io/lolinfo/" rel="noreferrer" target="_blank">deployed site</a>
+        <a className="links" href="https://github.com/SiyavashTorabi/lolinfo" rel="noreferrer" target="_blank">App On Github</a>
         <h3 className="texts">FE Only</h3>
         <ul className="texts"> 
         Languages/Apps used creating this Project:
@@ -69,7 +69,7 @@ export default function Projects() {
         <li>Netlify</li>
         <li>Figma</li>
         </ul>
-        <img className="proImg" src='lol.jpg' />
+        <img className="proImg" src='lol.jpg' alt='img' />
     </div>
 
       
