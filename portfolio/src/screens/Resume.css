@@ -1,0 +1,10 @@
+.resumeImg {
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}

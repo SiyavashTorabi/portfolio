@@ -4,6 +4,7 @@ import Home from './screens/Home'
 import Projects from './screens/Projects'
 import "./App.css"
 import Footer from './components/Footer'
+import Resume from './screens/Resume'
 function App() {
   return (
     <div>
@@ -15,6 +16,10 @@ function App() {
         
       <Route exact path="/projects">
           <Projects />
+        </Route>
+        
+      <Route exact path="/resume">
+          <Resume />
         </Route>
         
     </Switch>
