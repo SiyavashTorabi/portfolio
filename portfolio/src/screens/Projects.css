@@ -20,7 +20,7 @@ flex-shrink: 3;
 .project2,
 .project3,
 .project4{
-display: flex;
+display: inline-flex;
 justify-content:space-around;
 border: 3px solid rgb(2, 28, 34);
 text-align: start;
@@ -32,7 +32,7 @@ padding: 25px;
 
 .links {
 text-decoration: none;
-display: block;
+display: inline-block;
 justify-content: right;
 text-shadow:none;
 font-weight: 900;
@@ -56,4 +56,9 @@ justify-content: flex-start;
 font-size: 25px;
 align-items: flex-start;
 margin: 14px;
+}
+.pov {
+
+
+margin-left: 20px;
 }

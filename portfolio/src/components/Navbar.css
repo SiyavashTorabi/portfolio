@@ -1,3 +1,4 @@
+@media screen and (min-width: 780px) {
 .nav-bar {
 display: inline-flex;
 width:99.7%;
@@ -46,3 +47,6 @@ margin: 0mm;
   height: 260px;
 }
 
+
+ 
+  }
