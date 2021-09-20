@@ -1,3 +1,4 @@
+@media screen and (min-width: 30em),(max-width: 1000em) and (orientation: landscape) {
 .icons{
 display: inline-block;
 background-color: rgba(241, 239, 237, 0.637);
@@ -35,4 +36,5 @@ color: rgba(249, 250, 249, 0.52);
 .contact{
 margin-left: 50px;
 margin-bottom: 10px;
+}
 }

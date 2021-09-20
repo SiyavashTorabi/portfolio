@@ -9,7 +9,7 @@ export default function Home() {
         and resourcefulness to get the job done. When I’m not coding or studying
         new aspects of programming , you can find me hiking or improving my archery skills.</h2>
       <div className='Skills' >
-      <h1 className='Skills' >Skills:</h1>
+      
       <h3 className='Skills' >FrontEnd Developer</h3>
       <h3 className='Skills' >BackEnd Developer</h3>
       <h3 className='Skills' >API  Developer</h3>
